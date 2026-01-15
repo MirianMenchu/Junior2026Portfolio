@@ -20,7 +20,7 @@ body {
    NAVBAR
 ========================= */
 .navbar {
-  background-color: #540e0e;
+  background-color: rgba(57, 4, 4, 0.95);
   padding: 1em 2em;
   display: flex;
   justify-content: space-between;
