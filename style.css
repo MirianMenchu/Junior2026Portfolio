@@ -202,13 +202,13 @@ footer {
 
 img {
      float: left;
-     width: 200px;
+     width: 190px;
      margin: 10px;
      border-color: white;
   border-width: 2px;
   border-style: solid;
   border-radius: 10px;
-  height: 250px;
+  height: 240px;
 }
-body {background-color: #E9967A;
+body {background-color: #e0c1c6;
 }
